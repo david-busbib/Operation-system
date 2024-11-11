@@ -1,8 +1,2 @@
-noam.nezer, dbusbib123
-Noam Nezer (208080754), david busbib (336224076)
-EX: 3
-FILES:
-MapReduceFramework.cpp
-Barrier.cpp
-REMARKS:
-No remarks
+A multithreaded MapReduce framework in C++ with support for custom map and reduce operations.
+It allows developers to implement parallelizable tasks by defining custom key-value pairs and managing job states across map, shuffle, and reduce phases.
